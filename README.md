@@ -22,7 +22,7 @@
   <a href="https://leetcode.com/veekshitha_2006">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="mailto:veekshithababupoojari21@gmail.com">
+  <a href="mailto:[veekshithababupoojari21@gmail.com](mailto:veekshithababupoojari21@gmail.com)">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -169,15 +169,14 @@ Building Better Projects 🚀
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/veekshitha.">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/veekshitha .">     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+    
   <a href="https://leetcode.com/veekshitha_2006">
     <img src="https://cdn.simpleicons.org/leetcode" width="45" alt="LeetCode" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:veekshithababupoojari21@gmail.com">
+    
+  <a href="mailto:[veekshithababupoojari21@gmail.com](mailto:veekshithababupoojari21@gmail.com)">
     <img src="https://cdn.simpleicons.org/gmail" width="45" alt="Email" />
   </a>
 </p>
